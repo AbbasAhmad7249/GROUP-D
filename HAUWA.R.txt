@@ -1,0 +1,11 @@
+hauwaiabubakar01@gmail.com
+name <- "HAUWA IBRAHIM"
+email <- "hauwaiabubakar01@gmail.com"
+slack_username <- "hauwaibrahim.slack.com"
+area_of_interest <- "Genomic Cancer"
+cat("Name: ", name, "\n")
+cat("Email: ", email, "\n")
+cat("Slack Username: ", slack_username, "\n")
+cat("Area of Interest: ", area_of_interest, "\n")
+
+
