@@ -1,0 +1,14 @@
+package main
+import "fmt"
+func main() {
+    name := "SULAIMAN MUHAMMAD"
+    email := "sulaimanmuhammad1@gmail.com"
+    slackUsername := "sulaimanmuhammad1.slack.com"
+    areaOfInterest := "functional genomics"
+    fmt.Println("Name:", name)
+    fmt.Println("Email:", email)
+    fmt.Println("Slack Username:", slackUsername)
+    fmt.Println("Area of Interest:", areaOfInterest)
+}
+
+
