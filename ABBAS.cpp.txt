@@ -1,0 +1,10 @@
+#include <iostream>
+int main() {
+ std::cout << "Name: ABBAS AHMAD" << std::endl;
+ std::cout << "Email: abbasahmad3980@gmail.com" << std::endl;
+ std::cout << "Slack username: Abbas-Ahmad.slack.com" << std::endl;
+ std::cout << "Area of Interest: Proteomics in Bioinformatics" << std::endl;
+      return 0;
+}
+
+
