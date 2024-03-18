@@ -1,0 +1,82 @@
+#!/bin/bash
+#include <iostream>
+int main() {
+ std::cout << "Name: ABBAS AHMAD" << std::endl;
+ std::cout << "Email: abbasahmad3980@gmail.com" << std::endl;
+ std::cout << "Slack username: Abbas-Ahmad.slack.com" << std::endl;
+ std::cout << "Area of Interest: Proteomics in Bioinformatics" << std::endl;
+      return 0;
+}
+
+
+
+#!/usr/bin/python
+print("My name is", "Yahaya Ibrahim Hassan", end="\n")
+print("My email is", "yahyajahun@gmail.com", end="\n")
+print("My Slack username is", "@Aljahuneey", end="\n")
+print("My Area of interest in Bioinformatics is", "Computational Genomics",end="\n")
+
+
+let name = "Muhammad Munkaila"
+let email = "muhammadmunkaila200@gmail.com"
+let slackUsername = "Muhammad@slack.com"
+let areaOfInterest = "Systems Biology in Bioinformatics"
+
+printfn "%s\n%s\n%s\n%s" name email slackUsername areaOfInterest
+
+
+hauwaiabubakar01@gmail.com
+name <- "HAUWA IBRAHIM"
+email <- "hauwaiabubakar01@gmail.com"
+slack_username <- "hauwaibrahim.slack.com"
+area_of_interest <- "Genomic Cancer"
+cat("Name: ", name, "\n")
+cat("Email: ", email, "\n")
+cat("Slack Username: ", slack_username, "\n")
+cat("Area of Interest: ", area_of_interest, "\n")
+
+
+#include <stdio.h>
+int main() {
+printf("Name: %s\n", "Muhammad Kabiru Abdullahi");
+printf("Email: %s\n", "mohammed111kabiru@gmail.com");
+printf("Slack username: %s\n", "Mohammed111kabiru.slack.com");
+printf("Area of interest: %s\n", "Meta genomics");
+return 0;
+}
+
+
+import Foundation
+var name = "Azeez Idayat Abiola"
+var email = "azeezidayatabiola@gmail.com"
+var slack = "azeezidayatabiola.slack.com"
+var areaOfInterest = "Genomics in Bioinformatics"
+print("Name: \(name)")
+print("Email: \(email)")
+print("Slack: \(slack)")
+print("Area of interest: \(areaOfInterest)")
+
+
+package main
+import "fmt"
+func main() {
+    name := "SULAIMAN MUHAMMAD"
+    email := "sulaimanmuhammad1@gmail.com"
+    slackUsername := "sulaimanmuhammad1.slack.com"
+    areaOfInterest := "functional genomics"
+    fmt.Println("Name:", name)
+    fmt.Println("Email:", email)
+    fmt.Println("Slack Username:", slackUsername)
+    fmt.Println("Area of Interest:", areaOfInterest)
+}
+
+
+% Enter your name and email address below.
+name = 'Joshua Thomas Babale';
+email = 'thomasjoshuababale@gmail.com';
+slack_username = '@joshuababalet';
+interest = 'Bioinformatics and Algorithm';
+% Use the sprintf function to format the output.
+sprintf('Name: %s\nEmail: %s\nSlack username: %s\nInterest: %s', name, email, slack_username, interest)
+
+
