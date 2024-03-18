@@ -1,0 +1,7 @@
+#!/usr/bin/python
+print("My name is", "Yahaya Ibrahim Hassan", end="\n")
+print("My email is", "yahyajahun@gmail.com", end="\n")
+print("My Slack username is", "@Aljahuneey", end="\n")
+print("My Area of interest in Bioinformatics is", "Computational Genomics",end="\n")
+
+
