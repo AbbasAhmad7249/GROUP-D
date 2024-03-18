@@ -1,0 +1,11 @@
+import Foundation
+var name = "Azeez Idayat Abiola"
+var email = "azeezidayatabiola@gmail.com"
+var slack = "azeezidayatabiola.slack.com"
+var areaOfInterest = "Genomics in Bioinformatics"
+print("Name: \(name)")
+print("Email: \(email)")
+print("Slack: \(slack)")
+print("Area of interest: \(areaOfInterest)")
+
+
