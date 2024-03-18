@@ -1,0 +1,8 @@
+let name = "Muhammad Munkaila"
+let email = "muhammadmunkaila200@gmail.com"
+let slackUsername = "Muhammad@slack.com"
+let areaOfInterest = "Systems Biology in Bioinformatics"
+
+printfn "%s\n%s\n%s\n%s" name email slackUsername areaOfInterest
+
+
